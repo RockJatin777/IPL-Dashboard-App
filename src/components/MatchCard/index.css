@@ -1,0 +1,31 @@
+.list {
+  background-color: #1e293b;
+  height: 350px;
+  width: 250px;
+  padding: 16px;
+  border-radius: 16px;
+  border: none;
+  font-family: 'Bree Serif';
+  list-style-type: none;
+  margin: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-name {
+  color: #ffffff;
+  text-align: center;
+  font-size: 24px;
+}
+
+.result {
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+}
+
+.match-logo {
+  height: 100px;
+  width: 80px;
+}

@@ -1,0 +1,12 @@
+.lm-container {
+  display: flex;
+  align-items: center;
+  padding: 24px;
+  border-radius: 16px;
+  background-color: #1e293b;
+  justify-content: space-around;
+}
+
+.team-logo {
+  width: 250px;
+}

@@ -1,0 +1,20 @@
+.match-container {
+  background-color: #a4261d;
+  min-height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.team-banner {
+  height: 400px;
+}
+
+.rm-container {
+  padding-left: 0px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
